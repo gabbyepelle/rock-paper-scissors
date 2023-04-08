@@ -1,0 +1,72 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  background-color: #00CCCC;
+}
+
+img{
+  height: 150px;
+  width: auto;
+}
+
+
+h1 {
+  font-weight: 900;
+  font-size: 5em;
+  margin-bottom: 5px;
+}
+
+span {
+  font-size: 4em;
+}
+
+.container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  margin: 20px;
+}
+.end {
+  text-align: center;
+}
+
+.game {
+  margin: 10px;
+  background-color:#00fff7;
+  box-shadow: 10px 5px 5px gray;
+
+}
+
+
+#reset {
+  width: 100px;
+  height: 30px;
+  background-color: #00fff7;
+  border-radius: 10px;
+}
+
+.game-text {
+  font-size: 2em;
+  margin-top: 5px;
+}
+
+.hide{
+  display: none;
+}
+
+.display{
+  margin-left: 10px;
+  height: 300px;
+  width: auto
+}
+
+.display-img{
+  margin-bottom: 20px
+}
+
+.score-display{
+  margin-bottom: 15px;
+}
